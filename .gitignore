@@ -13,7 +13,6 @@ logs/
 _book/
 coverage/
 esm/
-lib/
 node_modules/
 
 # Custom
